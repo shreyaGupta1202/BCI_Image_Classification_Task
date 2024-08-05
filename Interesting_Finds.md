@@ -4,9 +4,6 @@
 Link : https://www.bbci.de/competition/iv/
 Note : Data is in form of MATLAB, GDF Files only
 
-• DRYAD dataset contains five studies that investigate natural speech understanding using a diversity of activities along with acoustic, cinematic, and envisioned verbal sensations (Amber et al., 2019).
-Link : 
-
 • DEAP dataset (Koelstra et al., 2011) includes 32 individuals who saw 1-min long music video snippets and judged arousal/valence/like–dislike/dominance/familiarity, as well as the frontal facial recording of 22 out of 32 subjects (Chen et al., 2019b; Ozdemir et al., 2019; Wilaiprasitporn et al., 2019; Aldayel et al., 2020; Gao et al., 2020a; Liu J. et al., 2020).
 Link : 
 Note : Need to apply for data access. Might take upto 1 week
